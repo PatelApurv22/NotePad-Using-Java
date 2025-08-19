@@ -48,7 +48,7 @@ Img/
 2. Run the `GUI` class to launch the application.
 3. Alternatively, use the provided `Notepad.exe` if available.
 
-## Interview Talking Points
+##  Technical Highlights
 - **Class Design:** Each feature is modularized into separate classes, demonstrating clean separation of concerns.
 - **Event Handling:** Uses listeners and handlers to manage user actions, showing real-world OOP usage.
 - **Extensibility:** The design allows easy addition of new features by creating new classes or extending existing ones.
