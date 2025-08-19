@@ -63,3 +63,5 @@ Img/
 **Author:** Apurv Patel
 
 Feel free to use this project as a reference in interviews to discuss OOP design and implementation in Java.
+*Special thanks to GitHub Copilot for providing assistance in creating and documenting this project.* 
+*Credit also to the YouTube channel that helped guide the development and understanding of OOP concepts.*
